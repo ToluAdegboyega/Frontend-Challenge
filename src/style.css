@@ -1,5 +1,10 @@
+body {
+    font-family: 'Inconsolata', monospace, 'Helvetica Neue', Helvetica, Arial, sans-serif;;
+}
+
 .container-text {
     text-align: center;
+    font-size: 50px;
 }
 
 .footer {
@@ -8,21 +13,19 @@
     align-items: center;
     position: fixed;
     bottom: 0;
-}
-
-#footer {
     text-decoration: none;
     text-align: center;
+    background-color: white;
 
 }
-
-
 
 #message {
     text-align: center;
+    font-size: 30px;
 } 
 
 #marvel-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    padding: 50px;
 }
