@@ -1,5 +1,7 @@
 body {
-    font-family: 'Inconsolata', monospace, 'Helvetica Neue', Helvetica, Arial, sans-serif;;
+    font-family: 'Inconsolata', monospace, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: palevioletred;
+    
 }
 
 .container-text {
@@ -13,10 +15,13 @@ body {
     align-items: center;
     position: fixed;
     bottom: 0;
-    text-decoration: none;
-    text-align: center;
     background-color: white;
 
+}
+
+.footer a {
+    text-decoration: none;
+    text-align: center;
 }
 
 #message {
@@ -29,10 +34,10 @@ body {
     justify-items: center;
     align-items: center;
     text-align: center;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     padding: 50px;
 }
 
 .cards {
-    
+    margin-bottom: 20px;
 }
