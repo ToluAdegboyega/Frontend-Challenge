@@ -1,5 +1,5 @@
-/* $(function() {
-    $('cards').jscroll();    
+ $(function() {
+    $('.cards').jscroll();    
 });
 
 var options = {
@@ -7,9 +7,5 @@ var options = {
     nextSelector: 'a.jscroll-next:last',
 };
 
-$('cards').jscroll(options);
-*/
+$('.cards').jscroll(options);
 
-$('.cards').jscroll({
-    nextSelector: 'a.jscroll-next:last'
-});
