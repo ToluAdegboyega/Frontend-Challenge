@@ -25,9 +25,11 @@ private key = afcfa8996725f83ce931a01e22184e62b62e0b77
                 for(var i = 0; i<data.data.results.length; i++) {
                     var element = data.data.results[i];
                     
+                    string += "<div class='cards'>";
                     string += "<img src='"+element.thumbnail.path+"/portrait_fantastic."+element.thumbnail.extension+"' />";
                     string += "<h3>" +element.title + "</h3>";
                     string += "<h4>" +element.dates[0].date+ "</h4>";
+                    string += "</div>";
                 }
 
                 marvelContainer.innerHTML = string;
