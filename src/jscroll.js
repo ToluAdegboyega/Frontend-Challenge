@@ -4,5 +4,5 @@ var options = {
     nextSelector: 'a.jscroll-next:last',
 };
 
-$('.cards').jscroll(options);
+$('#marvel-container').jscroll(options);
 
