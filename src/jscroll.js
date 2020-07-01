@@ -1,5 +1,5 @@
 $(function() {
-    $('#marvel-container').jscroll();    
+    $('cards').jscroll();    
 });
 
 var options = {
@@ -7,4 +7,4 @@ var options = {
     nextSelector: 'a.jscroll-next:last',
 };
 
-$('#marvel-container').jscroll(options);
+$('cards').jscroll(options);
