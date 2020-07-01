@@ -26,13 +26,13 @@ body {
 
 #marvel-container {
     display: grid;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
     grid-template-columns: 1fr 1fr;
     padding: 50px;
 }
 
 .cards {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+    
 }
