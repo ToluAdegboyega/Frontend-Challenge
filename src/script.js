@@ -14,7 +14,7 @@ private key = afcfa8996725f83ce931a01e22184e62b62e0b77
                 message.innerHTML = "Loading...";
             },
             complete: function() {
-
+                message.innerHTML = "Successfully done!";
             }
         });
     }
