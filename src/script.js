@@ -21,7 +21,7 @@ private key = afcfa8996725f83ce931a01e22184e62b62e0b77
             success: function(data) {
                 footer.innerHTML = data.attributionHTML;
 
-                for(var i = 0; i<data.data.results;i++) {
+                for(var i = 0; i<data.data.results.length; i++) {
                     var element = data.data.results[i];
                     console.log(element.title);
                 }
