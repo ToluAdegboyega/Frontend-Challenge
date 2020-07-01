@@ -25,7 +25,7 @@ private key = afcfa8996725f83ce931a01e22184e62b62e0b77
                     for(var i = 0; i<data.data.results.length; i++) {
                         var element = data.data.results[i];
                         
-                        string += "<div class='cards' data-infinite-scroll='{ path: '.pagination__next', append: '.post', history: false }'>";
+                        string += "<div class='cards'>";
                         string += "<ul>";
                         string += "<a href='" +element.urls[0].url+  "' target='_blank'>";
                         string += "<img src='"+element.thumbnail.path+"/portrait_uncanny."+element.thumbnail.extension+"' />";
