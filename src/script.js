@@ -20,11 +20,17 @@ private key = afcfa8996725f83ce931a01e22184e62b62e0b77
             },
             success: function(data) {
                 footer.innerHTML = data.attributionHTML;
+                var string = "";
 
                 for(var i = 0; i<data.data.results.length; i++) {
                     var element = data.data.results[i];
-                    console.log(element.title);
+                    
+                    string += "<h3>" +element.title + "</h3>";
+
                 }
+
+                marvelContainer.innerHTML = string;
+
             },
             error: function() {
                 message.innerHTML =  "We are sorry!";
