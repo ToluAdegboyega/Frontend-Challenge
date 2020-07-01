@@ -1,6 +1,3 @@
- $(function() {
-    $('.cards').jscroll();    
-});
 
 var options = {
     padding: 20,
