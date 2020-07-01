@@ -1,4 +1,4 @@
-$('.container').infiniteScroll({
+$('#marvel-container').infiniteScroll({
     // options
     path: '.pagination__next',
     append: '.post',
