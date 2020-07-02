@@ -46,3 +46,29 @@ private key = afcfa8996725f83ce931a01e22184e62b62e0b77
         }
     };
     marvel.render(); 
+
+    var currentScrollPosition = window.scrollY;
+var timeToWait = 1000; // No of millisecond to wait before call loadImages function.
+function debounce(func, wait, immediate) {
+    var timeout;
+    return function() {
+        var context = this, args = arguments;
+        var later = function() {
+            timeout = null;
+            if (!immediate) func.apply(context, args);
+        };
+        var callNow = immediate && !timeout;
+        clearTimeout(timeout);
+        timeout = setTimeout(later, wait);
+        if (callNow) func.apply(context, args);
+    };
+};
+
+function loadImages(e){
+   if((currentScrollPosition + 500) < window.scrollY){
+   currentScrollPosition = window.scrollY;
+    console.log('dfdf');
+   // Do you image loading here
+   }
+}
+window.onscroll = debounce(loadImages,timeToWait);
