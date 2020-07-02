@@ -1,6 +1,5 @@
-$('#marvel-container').infiniteScroll({
-    // options
-    path: '.pagination__next',
-    append: '.post',
-    history: false,
+$(document).ready(function() {
+  $("#lazyScrollLoading_ImageMode").lazyScrollLoading({
+  isDefaultLazyImageMode : true
+  });
   });
