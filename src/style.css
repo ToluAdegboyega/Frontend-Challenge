@@ -25,6 +25,7 @@ body {
 .footer a {
     text-decoration: none;
     text-align: center;
+    color: lightcoral;
 }
 
 #message {
