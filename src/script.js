@@ -28,7 +28,7 @@ private key = afcfa8996725f83ce931a01e22184e62b62e0b77
                         string += "<div class='cards'>";
                         string += "<ul>";
                         string += "<a href='" +element.urls[0].url+  "' target='_blank'>";
-                        string += "<img  class='lazyload' data-src='"+element.thumbnail.path+"/portrait_uncanny."+element.thumbnail.extension+"' />";
+                        string += "<img data-src='"+element.thumbnail.path+"/portrait_uncanny."+element.thumbnail.extension+"'  class='lazyload' />";
                         string += "</a>";
                         string += "<h3>" +element.title + "</h3>";
                         string += "<h4>" +element.dates[0].date+ "</h4>";
