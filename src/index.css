@@ -29,7 +29,16 @@ body {
 .navbar-top {
     display: grid;
     grid-template-columns: 20% 50% 20% 10%;
-    padding: 10px 30px 10px 30px;
+    padding: 10px 100px 10px 100px;
+}
+
+.navbar-bottom {
+    display: grid;
+}
+
+.navbar-bottom li {
+    list-style-type: none;
+    text-transform: uppercase;
 }
 
 .login-details {
