@@ -3,6 +3,11 @@ body {
     letter-spacing: .5px;
     color: #202020;
     height: 100vh;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
 }
 
 .login-details svg {
@@ -37,6 +42,7 @@ body {
     display: flex;
 }
 .navbar-bottom ul{
+    display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
 }
