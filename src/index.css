@@ -85,8 +85,12 @@ body {
 .search-icon {
     justify-self: center;
 }
+#banner {
+    margin-top: 50px;
+    height: 420px;
+}
 
-.second-a-background {
+.banner-background {
     background-color: transparent;
     background-image: url('https://terrigen-cdn-dev.marvel.com/content/prod/1x/008cmv_ons_mas_dsk_02.jpg');
     background-repeat: no-repeat;
