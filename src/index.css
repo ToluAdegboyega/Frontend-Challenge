@@ -62,8 +62,8 @@ body {
 .marvel-logo {
     display: flex;
     justify-content: center;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 .sign-in {
