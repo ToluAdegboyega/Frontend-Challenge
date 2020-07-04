@@ -35,6 +35,8 @@ body {
 
 .navbar-bottom {
     display: flex;
+}
+.navbar-bottom ul{
     flex-direction: row;
     flex-wrap: nowrap;
 }
