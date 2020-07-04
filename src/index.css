@@ -57,6 +57,8 @@ body {
 .login-details {
     display: flex;
     justify-content: center;
+    padding-right: 50px;
+    padding-left: 50px;
 }
 
 .marvel-logo {
@@ -78,7 +80,7 @@ body {
 
 .mastercard-navbar p {
     margin: 0;
-    padding-right: 10px;
+    padding-right: 30px;
 }
 
 .search-icon {
