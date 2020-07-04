@@ -33,7 +33,7 @@ body {
 }
 
 .navbar-bottom {
-    display: grid;
+    display: inline-grid;
 }
 
 .navbar-bottom li {
@@ -49,4 +49,9 @@ body {
 .marvel-logo {
     display: flex;
     justify-content: center;
+}
+
+.mastercard-navbar {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
