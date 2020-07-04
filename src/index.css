@@ -88,6 +88,11 @@ body {
     justify-self: center;
 }
 
-.section-background {
+#banner {
+    position: relative;
+    top: 0;
+}
+
+.banner-background {
     height: 420px;
 }
