@@ -87,3 +87,7 @@ body {
 .search-icon {
     justify-self: center;
 }
+
+.section-background {
+    height: 420px;
+}
