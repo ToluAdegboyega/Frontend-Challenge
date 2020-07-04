@@ -64,3 +64,7 @@ body {
 .mastercard-navbar p {
     margin: 0;
 }
+
+.search-icon {
+    justify-self: center;
+}
