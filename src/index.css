@@ -37,12 +37,14 @@ body {
 
 .navbar-bottom {
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
 .navbar-bottom ul{
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    align-items: center;
 }
 
 .navbar-bottom li {
