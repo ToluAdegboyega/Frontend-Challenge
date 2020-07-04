@@ -3,7 +3,7 @@ body {
     letter-spacing: .5px;
     color: #202020;
     height: 100vh;
-    position: relative;
+    position: sticky;
     margin: 0;
 }
 
