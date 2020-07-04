@@ -12,7 +12,8 @@ body {
 }
 
 .header {
-    color: #202020;
+    background-color: #202020;
+    color: white;
 }
 
 .main-navbar {
@@ -23,4 +24,15 @@ body {
 .navbar-top {
     display: grid;
     grid-template-columns: 20% 50% 20% 10%;
+    padding: 10px 30px 10px 30px;
+}
+
+.login-details {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.marvel-logo {
+    display: flex;
+    justify-content: center;
 }
