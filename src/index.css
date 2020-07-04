@@ -55,3 +55,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+.mastercard-navbar p {
+    margin: 0;
+}
