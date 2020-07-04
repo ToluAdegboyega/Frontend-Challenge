@@ -81,6 +81,7 @@ body {
 .mastercard-navbar p {
     margin: 0;
     padding-right: 30px;
+    padding-left: 10px;
 }
 
 .search-icon {
