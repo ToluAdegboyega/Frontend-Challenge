@@ -18,4 +18,5 @@ body {
 
 .main-navbar {
     display: flex;
+    flex-direction: column;
 }
