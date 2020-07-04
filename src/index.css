@@ -31,6 +31,7 @@ body {
 
 .navbar-top {
     display: grid;
+    justify-content: center;
     grid-template-columns: 20% 50% 20% 10%;
     padding: 10px 100px 10px 100px;
 }
@@ -54,8 +55,8 @@ body {
 }
 
 .login-details {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
+    justify-content: center;
 }
 
 .marvel-logo {
@@ -64,8 +65,8 @@ body {
 }
 
 .mastercard-navbar {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    display: flex;
+    justify-content: center;
 }
 
 .mastercard-navbar p {
