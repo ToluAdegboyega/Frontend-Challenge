@@ -33,7 +33,9 @@ body {
 }
 
 .navbar-bottom {
-    display: inline-grid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .navbar-bottom li {
