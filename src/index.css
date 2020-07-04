@@ -3,16 +3,22 @@ body {
     letter-spacing: .5px;
     color: #202020;
     height: 100vh;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
 }
 
 .login-details svg {
     height: 20px;
     width: 20px;
+    color: white;
 }
 
 .header {
     background-color: #202020;
     color: white;
+    font-weight: 500;
 }
 
 .main-navbar {
