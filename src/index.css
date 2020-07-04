@@ -84,7 +84,6 @@ body {
 
 .banner-background {
     background-image: url('https://terrigen-cdn-dev.marvel.com/content/prod/1x/008cmv_ons_mas_dsk_02.jpg');
-    background-size: 100% 650px;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
