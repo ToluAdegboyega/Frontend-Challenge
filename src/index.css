@@ -4,10 +4,7 @@ body {
     color: #202020;
     height: 100vh;
     position: relative;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    left: 0;
+    margin: 0;
 }
 
 .login-details svg {
@@ -50,6 +47,7 @@ body {
 .navbar-bottom li {
     list-style-type: none;
     text-transform: uppercase;
+    padding: 10px;
 }
 
 .login-details {
