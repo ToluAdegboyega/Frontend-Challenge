@@ -86,7 +86,7 @@ body {
     justify-self: center;
 }
 #banner {
-    height: 420px;
+   
 }
 
 .banner-background {
@@ -95,6 +95,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-size: cover;
+    height: 420px;
 }
 
 
