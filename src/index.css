@@ -15,3 +15,7 @@ body {
     color: #202020;
     display: flex;
 }
+
+.main-navbar {
+    display: flex;
+}
