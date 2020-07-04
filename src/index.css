@@ -10,3 +10,8 @@ body {
     height: 20px;
     width: 20px;
 }
+
+.header {
+    color: #202020;
+    display: flex;
+}
