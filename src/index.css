@@ -31,9 +31,8 @@ body {
 }
 
 .navbar-top {
-    display: grid;
+    display: flex;
     justify-content: center;
-    grid-template-columns: 20% 50% 20% 10%;
     padding: 10px 100px 10px 100px;
 }
 
@@ -63,7 +62,6 @@ body {
 .marvel-logo {
     display: flex;
     justify-content: center;
-    padding-left: 50px;
 }
 
 .sign-in {
