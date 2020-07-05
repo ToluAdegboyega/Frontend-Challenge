@@ -118,7 +118,7 @@ body {
 .banner-nav {
     z-index: 60;
     height: 70px;
-    position: absolute;
+    position: sticky;
     left: 0;
     right: 0;
     bottom: 0;
