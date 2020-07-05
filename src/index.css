@@ -160,7 +160,6 @@ body {
 
 .figure-img {
     display: flex;
-    padding-top: 50px;
     padding-left: 80px;
     padding-right: 80px;
 }
@@ -179,11 +178,16 @@ body {
 }
 
 .figure-text h1 {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .figure-text p {
     font-weight: 300;
+}
+
+.figure-text h3 {
+    background-color: red;
+    padding: 20px;
 }
 
 .figure-socials {
