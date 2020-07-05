@@ -301,15 +301,18 @@ body {
     font-size: 12px;
     color: red;
     width: 100%;
+    margin: 0;
 }
 
 .video-card-one h2 {
     width: 100%;
+    margin: 0;
 }
 
 .video-card-one p {
     font-weight: 300;
     width: 100%;
+    margin: 0;
 }
 
 .video-card-one video {
