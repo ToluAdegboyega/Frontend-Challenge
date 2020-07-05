@@ -169,6 +169,7 @@ body {
 
 .figure-text {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -176,6 +177,13 @@ body {
 
 .figure-socials {
     float: right;
+    padding-right: 50px;
+    font-size: 16px;
+    color: rgb(121, 121, 121);
+}
+
+.fab-fa-twitter {
+    padding-left: 10px;
 }
 
 
