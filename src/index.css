@@ -86,13 +86,13 @@ body {
 #banner {
     background-color: white;
     color: white;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 56%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
 }
 
 .banner-background  {
     position: relative;
     width: 100%;
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 56%, 0 100%);
-    clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
 }
 
 .banner-background img {
@@ -118,7 +118,6 @@ body {
     z-index: 60;
     height: 70px;
     position: absolute;
-    width: 100%;
     right: 0;
     bottom: 0;
 }
@@ -127,6 +126,8 @@ body {
     position: relative;
     padding: 0 0 0 40px; 
     z-index: 40;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 .banner-nav li {
