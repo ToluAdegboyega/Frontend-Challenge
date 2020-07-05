@@ -286,6 +286,8 @@ body {
     width: 100%;
     text-align: start;
     padding: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 .video-card-one h4 {
