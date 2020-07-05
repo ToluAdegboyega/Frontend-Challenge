@@ -301,18 +301,18 @@ body {
     font-size: 12px;
     color: red;
     width: 100%;
-    margin: 0;
+    margin-top: 5px;
 }
 
 .video-card-one h2 {
     width: 100%;
-    margin: 0;
+    margin-top: 5px;
 }
 
 .video-card-one p {
     font-weight: 300;
     width: 100%;
-    margin: 0;
+    margin-top: 5px;
 }
 
 .video-card-one video {
@@ -347,7 +347,12 @@ body {
     background-color: white;
 }
 
+#comics p {
+    font-weight: 300;
+}
+
 .comics-cards {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    padding: 10px 100px 10px 100px;
 }
