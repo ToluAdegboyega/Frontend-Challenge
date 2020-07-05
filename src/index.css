@@ -158,17 +158,27 @@ body {
     width: 100%;
 }
 
-.figure-background img {
+.figure-img img {
     width: 100%;
 }
 
+.figure-img {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
 .figure-text {
-    position: absolute;
+    /* position: absolute;
     top: 150px;
     left: 0;
     right: 0;
     font-weight: 700;
     padding-left: 30px;
+    */
+}
+
+.figure-socials {
+    float: right;
 }
 
 
