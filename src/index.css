@@ -191,7 +191,7 @@ body {
     color: white;
 }
 
-.figure-text + h3::before {
+h3.figure-text::before {
     display: block;
     content: '';
     position: absolute;
