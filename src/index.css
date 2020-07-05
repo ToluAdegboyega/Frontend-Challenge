@@ -276,6 +276,12 @@ body {
     background-color: white;
 }
 
+#video h1 {
+    font-size: 30px;
+    padding: 10px;
+}
+
+
 .video-background {
     display: grid;
     grid-template-columns: 80% 20%;
