@@ -116,6 +116,7 @@ body {
 }
 
 .banner-nav {
+    position: relative;
     z-index: 60;
     height: auto;
     display: flex;
