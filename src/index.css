@@ -222,4 +222,21 @@ body {
 .news-cards {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 100%;
+}
+
+.card-one img {
+    width: 100%;
+}
+
+.card-two img {
+    width: 100%;
+}
+
+.card-three img {
+    width: 100%;
+}
+
+.card-four img {
+    width: 100%;
 }
