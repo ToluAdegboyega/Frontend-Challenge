@@ -279,30 +279,50 @@ body {
 .video-background {
     display: grid;
     grid-template-columns: 80% 20%;
+    padding: 20px;
 }
 
 .video-card-one {
     width: 100%;
+    text-align: start;
+    padding: 20px;
+}
+
+.video-card-one h4 {
+    font-size: 12px;
+    color: red;
+}
+
+.video-card-one p {
+    font-weight: 300px;
 }
 
 .video-card-one video {
     width: 100%;
 }
 
-.vido-side {
+.video-side {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     width: 100%;
 }
 
 .video-side-one img {
     width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .video-side-two img {
     width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .video-side-three img {
     width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
