@@ -87,8 +87,6 @@ body {
 #banner {
     background-color: white;
     color: white;
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 56%, 0 100%);
-    clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
 }
 
 .banner-background  {
@@ -98,6 +96,8 @@ body {
 
 .banner-background img {
     width: 100%;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 56%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
 }
 
 .banner-img-text {
