@@ -82,6 +82,10 @@ body {
     justify-self: center;
 }
 
+#banner {
+    background-color: white;
+}
+
 .banner-background  {
     position: relative;
     width: 100%;
