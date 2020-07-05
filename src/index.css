@@ -101,6 +101,14 @@ body {
     top: 200px;
     left: 0;
     width: 100%;
+    font-weight: 800;
+}
+
+.banner-img-text h1 {
+    font-size: 45px;
+}
+
+.banner-img-text p {
     text-align: center;
 }
 
