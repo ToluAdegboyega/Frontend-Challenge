@@ -272,3 +272,7 @@ body {
     width: 100%;
 }
 
+.video-background {
+    display: grid;
+    grid-template-columns: 80% 20%;
+}
