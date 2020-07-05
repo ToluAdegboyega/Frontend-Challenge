@@ -120,6 +120,7 @@ body {
     position: absolute;
     right: 0;
     bottom: 0;
+    background-color: rgb(32, 32, 32);
 }
 
 .banner-nav ul {
@@ -132,7 +133,6 @@ body {
 
 .banner-nav li {
     list-style-type: none;
-    background-color: rgb(32, 32, 32);
     border-right: 1px solid #393939;
 }
 
