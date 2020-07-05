@@ -370,6 +370,7 @@ body {
     padding: 20px;
     color: white;
     margin: 10px;
+    width: 50px;
 }
 
 #games {
@@ -379,8 +380,9 @@ body {
 
 .games-img {
     display: flex;
+    padding: 30px 100px 0px 100px;
 }
 
-.games-img {
+.games-img img {
     width: 100%;
 }
