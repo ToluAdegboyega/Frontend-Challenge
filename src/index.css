@@ -286,7 +286,6 @@ body {
     width: 100%;
     text-align: start;
     padding: 20px;
-    margin-right: 30px;
 }
 
 .video-card-one h4 {
@@ -299,7 +298,7 @@ body {
 }
 
 .video-card-one video {
-    width: 100%;
+    width: 80%;
 }
 
 .video-side {
