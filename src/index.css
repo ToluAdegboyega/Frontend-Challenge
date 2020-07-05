@@ -130,6 +130,7 @@ body {
     padding: 0 0 0 40px; 
     z-index: 40;
     display: flex;
+    flex-wrap: wrap;
     margin: 0;
 }
 
@@ -137,9 +138,9 @@ body {
     list-style-type: none;
     border-right: 1px solid #393939;
     background-color: rgb(32, 32, 32);
+    font-size: 11px;
     padding: 30px;
     text-transform: uppercase;
-
 }
 
 
