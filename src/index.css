@@ -363,9 +363,10 @@ body {
 }
 
 .comics-more {
-    display: flex;
     text-align: center;
     background-color: red;
+    border: 1px solid red;
+    border-radius: 15%;
     padding: 20px;
     color: white;
 }
