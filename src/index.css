@@ -191,7 +191,7 @@ body {
     color: white;
 }
 
-.figure-button:before {
+/* .figure-button:before {
     display: block;
     content: '';
     position: absolute;
@@ -201,7 +201,7 @@ body {
     border-bottom: 80px solid white;
     border-right: 80px solid red;
     width: 0;
-}
+} */
 
 .figure-socials {
     padding-right: 50px;
