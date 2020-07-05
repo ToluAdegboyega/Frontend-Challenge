@@ -163,7 +163,6 @@ body {
     padding-top: 50px;
     padding-left: 80px;
     padding-right: 80px;
-    margin-top: 50px;
 }
 
 .figure-img img {
@@ -189,10 +188,10 @@ body {
 }
 
 .figure-socials {
-    float: right;
     padding-right: 50px;
     font-size: 20px;
     color: rgb(121, 121, 121);
+    text-align: end;
 }
 
 .fa-twitter {
