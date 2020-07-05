@@ -151,8 +151,6 @@ body {
 
 #figure {
     background-color: white;
-    padding-left: 80px;
-    padding-right: 80px;
 }
 
 .figure-background  {
@@ -162,6 +160,9 @@ body {
 
 .figure-img {
     display: flex;
+    padding-top: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 
 .figure-img img {
