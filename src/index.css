@@ -351,8 +351,14 @@ body {
     font-weight: 300;
 }
 
+#comics h1 {
+    font-size: 30px;
+    padding: 10px 10px 0 120px;
+}
+
 .comics-cards {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     padding: 10px 100px 10px 100px;
+    width: 100%;
 }
