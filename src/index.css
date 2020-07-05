@@ -118,6 +118,7 @@ body {
     z-index: 60;
     height: 70px;
     position: absolute;
+    left: 0;
     right: 0;
     bottom: 0;
     background-color: rgb(32, 32, 32);
