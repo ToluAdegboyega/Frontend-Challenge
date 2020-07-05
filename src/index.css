@@ -87,12 +87,15 @@ body {
     width: 100%;
 }
 
+.banner-background img {
+    width: auto;
+}
+
 .banner-img-text {
     position: absolute;
     top: 200px;
     left: 0;
     width: 100%;
-    
 }
 
 
