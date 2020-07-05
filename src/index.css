@@ -279,7 +279,7 @@ body {
 .video-background {
     display: grid;
     grid-template-columns: 80% 20%;
-    padding: 20px;
+    padding: 20px 100px 20px 100px;
 }
 
 .video-card-one {
