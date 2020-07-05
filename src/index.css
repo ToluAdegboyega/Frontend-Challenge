@@ -278,7 +278,7 @@ body {
 
 .video-background {
     display: grid;
-    grid-template-columns: 80% 20%;
+    grid-template-columns: 60% 40%;
     padding: 20px;
 }
 
