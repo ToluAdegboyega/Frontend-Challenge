@@ -395,6 +395,8 @@ body {
     justify-content: center;
     align-items: center;
     text-align: start;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .games-text h1 {
