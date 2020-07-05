@@ -166,7 +166,7 @@ body {
 }
 
 .figure-img img {
-    width: 60%;
+    
 }
 
 .figure-text {
@@ -177,6 +177,7 @@ body {
     text-align: center;
     padding-right: 60px;
     padding-left: 60px;
+    width: 30%;
 }
 
 .figure-text h1 {
