@@ -86,14 +86,12 @@ body {
 #banner {
     background-color: white;
     color: white;
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 56%, 0 100%);
-    clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
-    height: 100%;
 }
 
 .banner-background  {
     position: relative;
     width: 100%;
+    clip-path: polygon(2,0 2,98 98,95 98,0);
 }
 
 .banner-background img {
@@ -129,7 +127,6 @@ body {
 
 .banner-nav ul {
     position: relative;
-    width: 100%;
     padding: 0 0 0 40px; 
     z-index: 40;
 }
