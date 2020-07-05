@@ -288,3 +288,21 @@ body {
 .video-card-one video {
     width: 100%;
 }
+
+.vido-side {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.video-side-one img {
+    width: 100%;
+}
+
+.video-side-two img {
+    width: 100%;
+}
+
+.video-side-three img {
+    width: 100%;
+}
