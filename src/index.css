@@ -91,7 +91,8 @@ body {
 .banner-background  {
     position: relative;
     width: 100%;
-    clip-path: polygon(2,0 2,98 98,95 98,0);
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 56%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
 }
 
 .banner-background img {
@@ -117,12 +118,9 @@ body {
     z-index: 60;
     height: 70px;
     position: absolute;
-    display: flex;
-    justify-content: center;
     width: 100%;
     right: 0;
     bottom: 0;
-    color: rgb(32, 32, 32);
 }
 
 .banner-nav ul {
