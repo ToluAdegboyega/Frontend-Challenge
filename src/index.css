@@ -120,6 +120,7 @@ body {
     z-index: 60;
     height: auto;
     display: flex;
+    margin-top: 30px;
 }
 
 .banner-nav ul {
