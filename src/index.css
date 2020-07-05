@@ -87,7 +87,7 @@ body {
     background-color: white;
     color: white;
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 56%, 0 100%);
-    clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
 }
 
 .banner-background  {
@@ -130,9 +130,12 @@ body {
     padding: 0 0 0 40px; 
     */
     list-style-type: none;
-
 }
 
+.banner-nav li {
+    background-color: rgb(32, 32, 32);
+    border-right: 1px solid #393939;
+}
 
 
 
