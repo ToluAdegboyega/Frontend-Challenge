@@ -217,12 +217,33 @@ body {
 #news {
     background-color: #151515;
     color: white;
+    padding: 15px 30px 50px 30px;
+}
+
+#news h1 {
+    font-size: 30px;
+    padding: 10px;
 }
 
 .news-cards {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     width: 100%;
+}
+.card-one {
+    padding: 10px;
+}
+
+.card-two {
+    padding: 10px;
+}
+
+.card-three {
+    padding: 10px;
+}
+
+.card-four {
+    padding: 10px;
 }
 
 .card-one img {
