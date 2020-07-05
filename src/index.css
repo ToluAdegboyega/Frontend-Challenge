@@ -47,7 +47,7 @@ body {
 .navbar-bottom li {
     list-style-type: none;
     text-transform: uppercase;
-    padding: 10px;
+    padding: 5px 10px 5px 10px;
 }
 
 .login-details {
