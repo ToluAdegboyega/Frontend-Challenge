@@ -151,6 +151,8 @@ body {
 
 #figure {
     background-color: white;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 
 .figure-background  {
@@ -178,11 +180,11 @@ body {
 .figure-socials {
     float: right;
     padding-right: 50px;
-    font-size: 16px;
+    font-size: 20px;
     color: rgb(121, 121, 121);
 }
 
-.fab-fa-twitter {
+.fa-twitter {
     padding-left: 10px;
 }
 
