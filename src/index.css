@@ -149,6 +149,26 @@ body {
     text-transform: uppercase;
 }
 
+#figure {
+    background-color: white;
+}
 
+.figure-background  {
+    position: relative;
+    width: 100%;
+}
+
+.figure-background img {
+    width: 100%;
+}
+
+.figure-text {
+    position: absolute;
+    top: 150px;
+    left: 0;
+    right: 0;
+    font-weight: 700;
+    padding-left: 30px;
+}
 
 
