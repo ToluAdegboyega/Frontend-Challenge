@@ -276,3 +276,11 @@ body {
     display: grid;
     grid-template-columns: 80% 20%;
 }
+
+.video-card-one {
+    width: 100%;
+}
+
+.video-card-one video {
+    width: 100%;
+}
