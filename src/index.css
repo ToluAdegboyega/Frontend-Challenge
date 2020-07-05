@@ -128,14 +128,15 @@ body {
     position: relative;
     padding: 0 0 0 40px; 
     z-index: 40;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
 }
 
 .banner-nav li {
     list-style-type: none;
     border-right: 1px solid #393939;
     background-color: rgb(32, 32, 32);
+    width: 60px;
+    padding: 30px;
+
 }
 
 
