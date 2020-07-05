@@ -342,3 +342,12 @@ body {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+#comics {
+    background-color: white;
+}
+
+.comics-cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
