@@ -117,7 +117,7 @@ body {
 
 .banner-nav {
     z-index: 60;
-    height: 70px;
+    height: auto;
     position: absolute;
     left: 0;
     right: 0;
@@ -138,6 +138,7 @@ body {
     background-color: rgb(32, 32, 32);
     width: 60px;
     padding: 30px;
+    text-transform: uppercase;
 
 }
 
