@@ -118,12 +118,10 @@ body {
 .banner-nav {
     z-index: 60;
     height: 70px;
-    position: sticky;
+    position: absolute;
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgb(32, 32, 32);
-    width: 200px;
 }
 
 .banner-nav ul {
@@ -137,6 +135,7 @@ body {
 .banner-nav li {
     list-style-type: none;
     border-right: 1px solid #393939;
+    background-color: rgb(32, 32, 32);
 }
 
 
