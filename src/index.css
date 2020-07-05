@@ -365,6 +365,12 @@ body {
 .comics-more {
     display: flex;
     justify-self: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.comics-more p {
     background-color: red;
     border: 1px solid red;
     border-radius: 15px;
@@ -401,14 +407,20 @@ body {
 
 .games-text h1 {
     font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .games-text h3 {
     background-color: red;
     padding: 20px;
     color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .games-text h2{
     color: red;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
