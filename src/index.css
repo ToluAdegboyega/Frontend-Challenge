@@ -123,6 +123,7 @@ body {
     right: 0;
     bottom: 0;
     background-color: rgb(32, 32, 32);
+    width: 200px;
 }
 
 .banner-nav ul {
