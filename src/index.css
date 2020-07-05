@@ -353,11 +353,19 @@ body {
 
 #comics h1 {
     font-size: 30px;
-    padding: 10px 10px 0 120px;
+    padding: 10px 10px 0 100px;
 }
 
 .comics-cards {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    padding: 10px 80px 10px 100px;
+    padding: 50px 0px 10px 100px;
+}
+
+.comics-more {
+    display: flex;
+    text-align: center;
+    background-color: red;
+    padding: 20px;
+    color: white;
 }
