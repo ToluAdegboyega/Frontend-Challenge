@@ -388,3 +388,25 @@ body {
 .games-img img {
     width: 100%;
 }
+
+.games-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+}
+
+.games-text h1 {
+    font-size: 30px;
+}
+
+.games-text h3 {
+    background-color: red;
+    padding: 20px;
+    color: white;
+}
+
+.games-text h2{
+    color: red;
+}
