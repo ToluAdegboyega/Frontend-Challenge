@@ -192,6 +192,7 @@ body {
 }
 
 .figure-text h3::before {
+    display: block;
     content: '';
     position: absolute;
     top: 0; right: 0;
