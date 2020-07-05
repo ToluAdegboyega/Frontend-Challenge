@@ -41,6 +41,7 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    margin: 0;
 }
 
 .navbar-bottom li {
