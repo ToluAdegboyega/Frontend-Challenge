@@ -99,8 +99,9 @@ body {
 
 .banner-img-text {
     position: absolute;
-    top: 100px;
+    top: 150px;
     left: 0;
+    right: 0;
     width: 100%;
     font-weight: 700;
     padding-left: 30px;
