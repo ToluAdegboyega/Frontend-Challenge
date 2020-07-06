@@ -469,6 +469,7 @@ body {
 .marvel-reward-a {
     display: flex;
     flex-direction: row;
+    padding: 10px;
     
 }
 
@@ -500,7 +501,7 @@ body {
 .marvel-reward-b {
     display: flex;
     flex-direction: row;
-    
+    padding: 10px;  
 }
 
 .marvel-reward-b img {
