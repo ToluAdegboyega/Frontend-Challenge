@@ -697,4 +697,8 @@ body {
     .navbar-top {
         width: 100%;
     }
+
+    .marvel-logo {
+        padding: 0;
+    }
 }
