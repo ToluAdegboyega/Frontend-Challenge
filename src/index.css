@@ -710,6 +710,18 @@ body {
         padding-right: 0px;
     }
 
+    .mastercard-navbar {
+        padding-left: 0px;
+        padding-top: 0px;
+        padding-right: 0px;
+    }
+
+    .sign-in {
+        padding-left: 0px;
+        padding-top: 0px;
+        padding-right: 0px;
+    }
+
     .navbar-bottom {
         height: 70px;
     }
