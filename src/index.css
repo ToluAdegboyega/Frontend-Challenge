@@ -444,6 +444,18 @@ body {
     text-decoration: none;
 }
 
+.comics-cards-one h2 {
+    color: black;
+}
+
+.comics-cards-two h2 {
+    color: black;
+}
+
+.comics-cards-three h2 {
+    color: black;
+}
+
 .comics-more {
     display: flex;
     justify-self: center;
