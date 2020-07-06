@@ -670,6 +670,10 @@ body {
 
 }
 
+.footer-socials-icon a {
+    text-decoration: none;
+}
+
 .footer-two ul {
     display: flex;
     flex-wrap: wrap;
