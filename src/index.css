@@ -786,4 +786,12 @@ body {
         padding-left: 0px;
     }
 
+    #figure {
+        background-color: coral;
+    }
+
+    #video {
+        background-color: coral;
+    }
+
 }
