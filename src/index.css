@@ -722,13 +722,10 @@ body {
         align-items: center;
     }
 
-    .mastercard-navbar {
-        border: none;
-    }
 
     .mastercard-navbar p {
         padding-right: 0px;
-        display: none;
+        text-align: left;
     }
 }
 
