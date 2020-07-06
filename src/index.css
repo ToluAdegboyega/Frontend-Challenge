@@ -76,7 +76,7 @@ body {
     display: flex;
     justify-content: center;
     border: 1px solid #393939;
-    padding-top: 10px;
+    padding: 10px;
 }
 
 .mastercard-navbar p {
@@ -88,7 +88,7 @@ body {
 .search-icon {
     justify-self: center;
     border-right: 1px solid #393939;
-    padding-top: 10px;
+    padding: 10px;
 }
 
 #banner {
