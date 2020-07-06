@@ -437,8 +437,6 @@ body {
 
 .footer-one {
     display: flex;
-    justify-content: center;
-    align-items: center;
     flex-wrap: nowrap;
     width: 100%;
 }
@@ -483,6 +481,7 @@ body {
     font-size: 12px;
     text-transform: uppercase;
     text-align: left;
+    margin: 0px;
 }
 
 .marvel-reward-a-text p {
@@ -490,6 +489,7 @@ body {
     text-align: left;
     color: rgb(153, 153, 153);
     font-weight: 300;
+    margin: 0px;
 }
 
 .marvel-reward-b {
@@ -512,6 +512,7 @@ body {
     font-size: 12px;
     text-transform: uppercase;
     text-align: left;
+    margin: 0px;
 }
 
 .marvel-reward-b-text p {
@@ -519,6 +520,7 @@ body {
     text-align: left;
     color: rgb(153, 153, 153);
     font-weight: 300;
+    margin: 0px;
 }
 
 .footer-socials h2 {
@@ -528,5 +530,8 @@ body {
 
 .footer-socials-icon li {
     list-style-type: none;
-    
+    color: rgb(153, 153, 153);
+    display: flex;
+    flex-wrap: wrap;
+
 }
