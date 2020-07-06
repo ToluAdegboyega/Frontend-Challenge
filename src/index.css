@@ -535,3 +535,11 @@ body {
     flex-wrap: wrap;
 
 }
+
+.footer-two li {
+    color: #999;
+    list-style-type: none;
+    font-size: 12px;
+    padding: 0 10px;
+    margin-bottom: 10px;
+}
