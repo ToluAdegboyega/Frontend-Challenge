@@ -454,3 +454,11 @@ body {
     font-size: 13px;
     margin-bottom: 12px;
 }
+
+.footer-nav-b li {
+    text-transform: uppercase;
+    list-style-type: none;
+    font-size: 13px;
+    margin-bottom: 12px;
+}
+
