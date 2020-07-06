@@ -708,6 +708,11 @@ body {
        display: none;
     }
 
+    .navbar-bottom {
+        height: 100%;
+    }
+
+
     /*
     .search-icon {
         padding-left: 0px;
@@ -723,9 +728,7 @@ body {
         padding-right: 0px;
     }
 
-    .navbar-bottom {
-        height: 70px;
-    }
+    
 
     .login-details {
         padding-left: 0px;
