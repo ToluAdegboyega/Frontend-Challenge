@@ -700,5 +700,16 @@ body {
 
     .marvel-logo {
         padding: 0;
+        width: 60px;
+        height: 30px;
+    }
+
+    .navbar-bottom {
+        height: 50px;
+    }
+
+    .login-details {
+        padding-left: 0px;
+        padding-right: 0px;
     }
 }
