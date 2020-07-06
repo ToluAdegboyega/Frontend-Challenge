@@ -473,15 +473,49 @@ body {
     width: 60px;
 }
 
-.marvel-reward-a h2 {
+.marvel-reward-a-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.marvel-reward-a-text h2 {
     font-size: 12px;
     text-transform: uppercase;
     text-align: left;
 }
 
-.marvel-reward-a p {
+.marvel-reward-a-text p {
     font-size: 14px;
     text-align: left;
     color: rgb(153, 153, 153);
     font-weight: 300;
 }
+
+.marvel-reward-b {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.marvel-reward-b img {
+    width: 60px;
+}
+
+.marvel-reward-b-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.marvel-reward-b-text h2 {
+    font-size: 12px;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.marvel-reward-b-text p {
+    font-size: 14px;
+    text-align: left;
+    color: rgb(153, 153, 153);
+    font-weight: 300;
+}
+
