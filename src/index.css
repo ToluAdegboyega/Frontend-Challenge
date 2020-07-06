@@ -431,6 +431,7 @@ body {
 
 .footer-background {
     display: flex;
+    flex-direction: column;
     justify-content: center;
 }
 
