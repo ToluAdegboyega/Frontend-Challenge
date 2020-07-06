@@ -714,6 +714,10 @@ body {
     }
 
     .mastercard-navbar {
+        border: none;
+    }
+
+    .mastercard-navbar p {
         padding-right: 0px;
         border: none;
     }
