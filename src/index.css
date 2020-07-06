@@ -704,6 +704,11 @@ body {
         height: 30px;
     }
 
+    .marvel-logo svg {
+        width: 60px;
+        height: 30px;
+    }
+
     .navbar-bottom {
         height: 50px;
     }
