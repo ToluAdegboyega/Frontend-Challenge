@@ -556,11 +556,11 @@ body {
     font-weight: 700;
     font-size: 13px;
     margin-bottom: 12px;
-    color: white;
 }
 
 .footer-nav-a a {
     text-decoration: none;
+    color: white;
 }
 
 
@@ -571,11 +571,11 @@ body {
     margin-bottom: 12px;
     text-align: left;
     text-decoration: none;
-    color: white;
 }
 
 .footer-nav-b a {
     text-decoration: none;
+    color: white;
 }
 
 .marvel-reward {
