@@ -521,3 +521,12 @@ body {
     font-weight: 300;
 }
 
+.footer-socials h2 {
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.footer-socials-icon li {
+    list-style-type: none;
+    
+}
