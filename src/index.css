@@ -762,6 +762,10 @@ body {
         padding-left: 10px;
     }
 
+    .video-card-one {
+        padding-right: 0px;
+    }
+
     .comics-cards {
         display: flex;
         flex-direction: column;
