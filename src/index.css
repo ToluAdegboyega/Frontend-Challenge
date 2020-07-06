@@ -776,4 +776,8 @@ body {
         align-items: center;
     }
 
+    .footer-nav-a ul{
+        padding-left: 0px;
+    }
+
 }
