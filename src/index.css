@@ -465,4 +465,10 @@ body {
 
 .marvel-reward-a {
     display: flex;
+    flex-direction: row;
+    
+}
+
+.marvel-reward-a img {
+    width: 60px;
 }
