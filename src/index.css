@@ -704,9 +704,10 @@ body {
         height: 30px;
     }
 
-    .marvel-logo svg {
-        width: 60;
-        height: 30;
+    .search-icon {
+        padding-left: 0px;
+        padding-top: 0px;
+        padding-right: 0px;
     }
 
     .navbar-bottom {
