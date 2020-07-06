@@ -90,6 +90,10 @@ body {
     padding: 10px;
 }
 
+.mastercard-navbar a {
+    text-decoration: none;
+}
+
 .mastercard-navbar p {
     margin: 0;
     padding-right: 30px;
