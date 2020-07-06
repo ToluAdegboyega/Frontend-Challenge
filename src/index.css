@@ -693,6 +693,8 @@ body {
 @media only screen and (max-width: 600px) {
     body {
         width: 100%;
+        left: 0;
+        right: 0;
     }
 
     .navbar-top {
