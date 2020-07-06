@@ -696,8 +696,12 @@ body {
 @media only screen and (max-width: 600px) {
     .navbar-top {
         margin-bottom: 10px;
+        display: grid;
+        grid-template-columns: 25% 25% 25% 25%;
     }
 
+
+    /*
     .marvel-logo {
         padding: 0;
         width: 60px;
@@ -731,4 +735,5 @@ body {
         padding-left: 0px;
         padding-right: 0px;
     }
+    */
 }
