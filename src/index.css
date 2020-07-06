@@ -443,9 +443,8 @@ body {
     width: 100%;
 }
 
-.footer-logo svg {
-    width: 100%;
-    height: 100%;
+.footer-logo  {
+    width: 80px;
 }
 
 .footer-nav-a li {
