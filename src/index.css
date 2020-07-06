@@ -726,5 +726,14 @@ body {
     .figure-img {
         display: flex;
         flex-direction: column;
+        width: 100%;
+    }
+
+    .figure-img img {
+        width: 100%;
+    }
+
+    .figure-text {
+        width: 100%;
     }
 }
