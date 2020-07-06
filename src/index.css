@@ -774,9 +774,15 @@ body {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        padding-left: 0px;
+        padding-right: 0px;
     }
 
     .footer-nav-a ul{
+        padding-left: 0px;
+    }
+
+    .footer-socials-icon ul {
         padding-left: 0px;
     }
 
