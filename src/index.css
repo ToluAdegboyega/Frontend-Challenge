@@ -528,6 +528,11 @@ body {
     text-transform: uppercase;
 }
 
+.footer-socials-icon ul {
+    display: flex;
+    justify-content: space-between;
+}
+
 .footer-socials-icon li {
     list-style-type: none;
     color: rgb(153, 153, 153);
