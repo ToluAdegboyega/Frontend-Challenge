@@ -428,6 +428,18 @@ body {
     padding: 0px 0px 10px 100px;
 }
 
+.comics-cards-one {
+    text-decoration: none;
+}
+
+.comics-cards-two {
+    text-decoration: none;
+}
+
+.comics-cards-three {
+    text-decoration: none;
+}
+
 .comics-more {
     display: flex;
     justify-self: center;
@@ -444,6 +456,7 @@ body {
     color: white;
     margin: 10px;
     font-weight: 500;
+    text-decoration: none;
 }
 
 #games {
