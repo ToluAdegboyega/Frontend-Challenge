@@ -769,4 +769,9 @@ body {
         flex-direction: row;
     }
 
+    .footer-one {
+        display: flex;
+        flex-direction: column;
+    }
+
 }
