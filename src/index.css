@@ -690,11 +690,9 @@ body {
     color: #999;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
     body {
         width: 100%;
-        left: 0;
-        right: 0;
     }
 
     .navbar-top {
@@ -790,7 +788,7 @@ body {
     .footer-socials-icon ul {
         padding-left: 0px;
     }
-
+    /*
     .comics-card-one img {
         width: 250px;
     }
@@ -802,4 +800,5 @@ body {
     .comics-card-three img {
         width: 250px;
     }
+    */
 }
