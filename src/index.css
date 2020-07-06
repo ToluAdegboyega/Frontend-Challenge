@@ -432,15 +432,15 @@ body {
     padding: 0px 0px 10px 100px;
 }
 
-.comics-cards-one {
+.comics-cards-one a {
     text-decoration: none;
 }
 
-.comics-cards-two {
+.comics-cards-two a {
     text-decoration: none;
 }
 
-.comics-cards-three {
+.comics-cards-three a {
     text-decoration: none;
 }
 
