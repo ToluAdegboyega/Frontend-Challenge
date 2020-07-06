@@ -28,6 +28,7 @@ body {
     display: flex;
     justify-content: center;
     border: 1px solid #393939;
+    width: 100%;
 }
 
 .navbar-bottom {
@@ -688,6 +689,27 @@ body {
 .footer-two a {
     text-decoration: none;
     color: #999;
+}
+
+@media only screen and (max-width: 1000px) {
+    .banner-nav {
+        display: none;
+    }
+    .banner-img-text {
+        display: none;
+    }
+
+    .navbar-top {
+        margin-bottom: 10px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        width: 100%;
+    }
+
+    .comics-cards {
+        display: flex;
+        flex-direction: column;
+    }
 }
 
 @media only screen and (max-width: 700px) {
