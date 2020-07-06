@@ -728,7 +728,7 @@ body {
 
     .mastercard-navbar p {
         padding-right: 0px;
-        border: none;
+        display: none;
     }
 }
 
