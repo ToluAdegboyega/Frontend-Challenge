@@ -107,6 +107,11 @@ body {
     padding: 10px;
 }
 
+.search-icon a {
+    text-decoration: none;
+    color: white;
+}
+
 #banner {
     background-color: white;
     color: white;
