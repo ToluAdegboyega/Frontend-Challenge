@@ -736,6 +736,7 @@ body {
 
     .mastercard-navbar {
        display: none;
+       border: none;
     }
 
     .navbar-bottom {
