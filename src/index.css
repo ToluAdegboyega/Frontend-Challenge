@@ -761,4 +761,12 @@ body {
         flex-direction: column;
         padding: 10px;
     }
+
+    .games-img {
+        padding-left: 10px;
+        padding-right: 10px;
+        display: flex;
+        flex-direction: row;
+    }
+
 }
