@@ -463,3 +463,6 @@ body {
     text-align: left;
 }
 
+.marvel-reward-a {
+    display: flex;
+}
