@@ -548,7 +548,13 @@ body {
     color: rgb(153, 153, 153);
     display: flex;
     flex-wrap: wrap;
+    padding: 10px;
 
+}
+
+.footer-two ul {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .footer-two li {
