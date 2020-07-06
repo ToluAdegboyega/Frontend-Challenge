@@ -723,7 +723,7 @@ body {
         display: none;
     }
 
-    .figure-background {
+    .figure-img {
         display: flex;
         flex-direction: column;
     }
