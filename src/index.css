@@ -460,6 +460,9 @@ body {
     color: white;
     margin: 10px;
     font-weight: 500;
+}
+
+.comics-more a {
     text-decoration: none;
 }
 
