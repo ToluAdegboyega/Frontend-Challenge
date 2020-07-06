@@ -432,27 +432,27 @@ body {
     padding: 0px 0px 10px 100px;
 }
 
-.comics-cards-one a {
+.comics-card-one a {
     text-decoration: none;
 }
 
-.comics-cards-two a {
+.comics-card-two a {
     text-decoration: none;
 }
 
-.comics-cards-three a {
+.comics-card-three a {
     text-decoration: none;
 }
 
-.comics-cards-one h2 {
+.comics-card-one h2 {
     color: black;
 }
 
-.comics-cards-two h2 {
+.comics-card-two h2 {
     color: black;
 }
 
-.comics-cards-three h2 {
+.comics-card-three h2 {
     color: black;
 }
 
