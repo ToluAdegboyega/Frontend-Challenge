@@ -699,6 +699,7 @@ body {
         margin-bottom: 10px;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
+        width: 100%;
     }
 
     .marvel-logo {
