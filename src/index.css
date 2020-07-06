@@ -276,11 +276,14 @@ body {
 #news h2 {
     color: #999;
     font-size: 14px;
+    text-decoration: none;
 }
 
 #news p {
     font-size: 15px;
     font-weight: 500;
+    text-decoration: none;
+    color: white;
 }
 
 .news-cards {
@@ -292,7 +295,6 @@ body {
 .card-one {
     padding: 10px;
 }
-
 
 
 .card-two {
