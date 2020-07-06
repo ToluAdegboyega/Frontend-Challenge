@@ -700,14 +700,11 @@ body {
         grid-template-columns: 25% 25% 25% 25%;
     }
 
-
-    /*
     .marvel-logo {
         padding: 0;
-        width: 60px;
-        height: 30px;
     }
 
+    /*
     .search-icon {
         padding-left: 0px;
         padding-top: 0px;
