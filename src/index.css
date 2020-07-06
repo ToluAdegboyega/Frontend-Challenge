@@ -556,6 +556,8 @@ body {
     font-weight: 700;
     font-size: 13px;
     margin-bottom: 12px;
+    text-decoration: none;
+    color: none;
 }
 
 .footer-nav-b li {
@@ -564,6 +566,8 @@ body {
     font-size: 13px;
     margin-bottom: 12px;
     text-align: left;
+    text-decoration: none;
+    color: none;
 }
 
 .marvel-reward {
