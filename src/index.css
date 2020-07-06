@@ -692,3 +692,9 @@ body {
     text-decoration: none;
     color: #999;
 }
+
+@media only screen and (max-width: 600px) {
+    .navbar-top {
+        width: 100%;
+    }
+}
