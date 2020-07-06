@@ -472,3 +472,16 @@ body {
 .marvel-reward-a img {
     width: 60px;
 }
+
+.marvel-reward-a h2 {
+    font-size: 12px;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.marvel-reward-a p {
+    font-size: 14px;
+    text-align: left;
+    color: rgb(153, 153, 153);
+    font-weight: 300;
+}
