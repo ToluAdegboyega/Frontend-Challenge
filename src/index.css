@@ -755,4 +755,10 @@ body {
         padding-right: 10px;
         padding-left: 10px;
     }
+
+    .comics-cards {
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+    }
 }
