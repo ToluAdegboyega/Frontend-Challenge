@@ -712,6 +712,10 @@ body {
         height: 100%;
     }
 
+    .login-details {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
 
     /*
     .search-icon {
@@ -730,9 +734,6 @@ body {
 
     
 
-    .login-details {
-        padding-left: 0px;
-        padding-right: 0px;
-    }
+   
     */
 }
