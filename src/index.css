@@ -715,6 +715,7 @@ body {
 
     .mastercard-navbar {
         padding-right: 0px;
+        border: none;
     }
 }
 
@@ -736,7 +737,6 @@ body {
 
     .mastercard-navbar {
        display: none;
-       border: none;
     }
 
     .navbar-bottom {
