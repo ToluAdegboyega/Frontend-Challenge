@@ -687,3 +687,8 @@ body {
     padding: 10px;
     margin-bottom: 10px;
 }
+
+.footer-two a {
+    text-decoration: none;
+    color: #999;
+}
