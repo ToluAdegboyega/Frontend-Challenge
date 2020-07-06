@@ -204,10 +204,6 @@ body {
     padding-right: 80px;
 }
 
-.figure-img img {
-    
-}
-
 .figure-text {
     display: flex;
     flex-direction: column;
@@ -725,5 +721,10 @@ body {
 
     .banner-nav {
         display: none;
+    }
+
+    .figure-background {
+        display: flex;
+        flex-direction: column;
     }
 }
