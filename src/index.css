@@ -462,6 +462,7 @@ body {
 #games {
     background-color: black;
     color: white;
+    text-decoration: none;
 }
 
 .games-img {
