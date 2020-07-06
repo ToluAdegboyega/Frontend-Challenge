@@ -230,6 +230,10 @@ body {
     color: white;
 }
 
+.figure-text a {
+    text-decoration: none;
+}
+
 /* .figure-button:before {
     display: block;
     content: '';
