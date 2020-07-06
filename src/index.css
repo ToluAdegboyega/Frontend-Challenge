@@ -469,6 +469,9 @@ body {
 #games {
     background-color: black;
     color: white;
+}
+
+#games a {
     text-decoration: none;
 }
 
