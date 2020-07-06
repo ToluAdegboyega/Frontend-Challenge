@@ -738,4 +738,9 @@ body {
     .figure-text {
         width: 100%;
     }
+
+    #news {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
 }
