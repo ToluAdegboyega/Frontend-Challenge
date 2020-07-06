@@ -451,6 +451,7 @@ body {
 .foote-nav-a li {
     text-transform: uppercase;
     list-style-type: none;
-    font-weight: 500;
+    font-weight: 700;
     font-size: 13px;
+    margin-bottom: 12px;
 }
