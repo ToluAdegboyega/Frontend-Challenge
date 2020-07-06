@@ -748,4 +748,9 @@ body {
         display: flex;
         flex-direction: column;
     }
+
+    .video-background {
+        display: flex;
+        flex-direction: column;
+    }
 }
