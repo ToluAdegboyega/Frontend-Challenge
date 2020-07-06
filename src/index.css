@@ -182,6 +182,12 @@ body {
     text-transform: uppercase;
 }
 
+.banner-nav a {
+    text-decoration: none;
+    color: white;
+}
+
+
 #figure {
     background-color: white;
 }
