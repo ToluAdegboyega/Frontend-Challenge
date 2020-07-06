@@ -431,5 +431,12 @@ body {
 
 .footer-background {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+}
+
+.footer-one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
 }
