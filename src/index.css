@@ -691,6 +691,10 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
+    body {
+        width: 100%;
+    }
+
     .navbar-top {
         margin-bottom: 10px;
         display: grid;
@@ -784,14 +788,6 @@ body {
 
     .footer-socials-icon ul {
         padding-left: 0px;
-    }
-
-    #figure {
-        background-color: coral;
-    }
-
-    #video {
-        background-color: coral;
     }
 
 }
