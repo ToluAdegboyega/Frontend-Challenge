@@ -276,13 +276,11 @@ body {
 #news h2 {
     color: #999;
     font-size: 14px;
-    text-decoration: none;
 }
 
 #news p {
     font-size: 15px;
     font-weight: 500;
-    text-decoration: none;
     color: white;
 }
 
@@ -296,17 +294,32 @@ body {
     padding: 10px;
 }
 
+.card-one a {
+    text-decoration: none;
+}
 
 .card-two {
     padding: 10px;
+}
+
+.card-three a {
+    text-decoration: none;
 }
 
 .card-three {
     padding: 10px;
 }
 
+.card-three a {
+    text-decoration: none;
+}
+
 .card-four {
     padding: 10px;
+}
+
+.card-four a {
+    text-decoration: none;
 }
 
 .card-one img {
