@@ -791,4 +791,15 @@ body {
         padding-left: 0px;
     }
 
+    .comics-card-one img {
+        width: 250px;
+    }
+
+    .comics-card-two img {
+        width: 250px;
+    }
+
+    .comics-card-three img {
+        width: 250px;
+    }
 }
